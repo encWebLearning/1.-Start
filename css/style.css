@@ -1,3 +1,11 @@
-.cola {
-  font-size: 23dp;
+.test {
+  font-style: italic;
+}
+
+.test2 {
+  font-size: 12px;
+}
+
+.enter {
+  font: optional;
 }
