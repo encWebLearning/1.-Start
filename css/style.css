@@ -8,4 +8,5 @@
 
 .enter {
   font: optional;
+  display: flex;
 }
